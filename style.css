@@ -255,11 +255,7 @@
       font-size: 1rem; /* Adjust button text size */
      }
 
-     .checkout-container {
-      margin-top: 2em; /* Adjust top margin */
-      flex-direction: column; /* Stack title and item count */
-      align-items: center; /* Center items */
-      }
+     
 
      .item-count {
        margin-top: 0.5em; /* Add space below title */
